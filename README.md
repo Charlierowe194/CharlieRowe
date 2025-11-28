@@ -1,7 +1,7 @@
 ##
 CharlieRowe
 Motivation
-Quick start
+Quick Start
 Usage
 Contributing
 Motivation
