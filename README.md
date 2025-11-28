@@ -1,7 +1,7 @@
 ##
 CharlieRowe
-motivation
-quick start
-usage
-contributing
-motivation
+Motivation
+Quick start
+Usage
+Contributing
+Motivation
